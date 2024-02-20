@@ -1,16 +1,15 @@
-# search_query
+Filter API Data App
 
-A new Flutter project.
 
-## Getting Started
+A Flutter app designed to filter and display data fetched from an API. The app allows users to interactively apply filters to the API data, providing a streamlined way to view specific information.
 
-This project is a starting point for a Flutter application.
+Features:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+API Integration: Fetches data from an API source.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interactive Filtering: Enables users to dynamically filter and sort data based on preferences.
+
+User-Friendly Interface: Intuitive design for easy navigation and efficient filtering.
+
+Screenshot: ![80](https://github.com/JunaidJameel/Search-Query-on-API-Data-Flutter/assets/109211380/8ab8a449-222b-4915-b82c-6f68af8c0308)
